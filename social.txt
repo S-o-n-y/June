@@ -1,0 +1,2 @@
+This is the aws new batch 
+This batch contains bot online and offline classes due to rainy
